@@ -1,0 +1,4 @@
+print('Buna ziua')
+print(1+1)
+print(2**10)
+print("Valoarea lui 22 la puterea 32 este =", 22**32)
