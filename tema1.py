@@ -1,4 +1,5 @@
 #Rezolvare tema 1
+#link articol: https://www.digi24.ro/stiri/sci-tech/descoperiri/secretele-filosofului-care-a-fondat-stoicismul-au-fost-descifrate-dupa-ce-un-papirus-recuperat-din-cenusa-a-fost-citit-de-cercetatori-3454941
 
 articol = """La mai bine de 2.200 de ani de la moartea sa, unul dintre cei mai influenți și evazivi filosofi ai Antichității vorbește din nou.
 Folosind o tehnică inovativă de imagistică, cercetătorii italieni au citit părți dintr-un sul de papirus carbonizat care deveniseră ilizibile
